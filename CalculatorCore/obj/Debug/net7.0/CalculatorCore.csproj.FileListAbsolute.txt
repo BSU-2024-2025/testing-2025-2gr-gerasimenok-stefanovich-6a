@@ -1,0 +1,14 @@
+D:\CalculatorCore\CalculatorCore\bin\Debug\net7.0\CalculatorCore.exe
+D:\CalculatorCore\CalculatorCore\bin\Debug\net7.0\CalculatorCore.deps.json
+D:\CalculatorCore\CalculatorCore\bin\Debug\net7.0\CalculatorCore.runtimeconfig.json
+D:\CalculatorCore\CalculatorCore\bin\Debug\net7.0\CalculatorCore.dll
+D:\CalculatorCore\CalculatorCore\bin\Debug\net7.0\CalculatorCore.pdb
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.AssemblyInfoInputs.cache
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.AssemblyInfo.cs
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.csproj.CoreCompileInputs.cache
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.dll
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\refint\CalculatorCore.dll
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.pdb
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\CalculatorCore.genruntimeconfig.cache
+D:\CalculatorCore\CalculatorCore\obj\Debug\net7.0\ref\CalculatorCore.dll
